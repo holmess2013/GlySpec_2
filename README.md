@@ -1,0 +1,1 @@
+GlySpec 2 is a rewrite of a carbohydrate grafting program originally written by Oliver Grant and coworkers ( (. This program predicts glycans that may bind to your protein given a co-crystal structure of your protein bound to a minimal binding determinant. 
